@@ -30,8 +30,8 @@
 `gh repo clone grashin/life_megafon_project`
 Установить Requirements:
 `pip install numpy opencv`
----
-Запустить игру можно двумя способами:
+
+**Запустить игру можно двумя способами:**
 * открыть исполняемый файл Game of Life
 * запустить исходный код из командной строки:
 `python /src/script.py`
